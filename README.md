@@ -8,6 +8,8 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
+🌐 **Idioma / Language:** English | [Español](README.es.md)
+
 ---
 
 ## 📌 Project Overview
@@ -65,7 +67,7 @@ superstore-sales-analysis/
 │
 ├── 📓 superstore_analysis.ipynb          # Main analysis notebook
 ├── 📄 README.md                          # This file
-├── 📊 Sample - Superstore.csv            # Dataset (download from Kaggle)
+├── 📊 Sample - Superstore.csv            # Este archivo
 │
 ├── 📈 charts/                            # Exported visualizations
 │   ├── chart1_category_performance.png
